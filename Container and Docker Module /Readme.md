@@ -49,6 +49,8 @@ The application is containerized, stored in registries, and deployed inside an A
 
 </div>
 
+---
+
 ### Step 1: Azure Portal Home Page
 
 ![Screenshot 2026-01-09 192247.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20192247_w2YCda1ewjQs_mx0eawH7.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 192247.png")
@@ -216,70 +218,94 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <div align="center">
 
+### Deployment of NGINX Web Server Using Azure Container Instances
+
+</div>
+
+---
+
+## Step 1: Azure Portal Home Page
+
+![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
+
+## Step 2: Searching for Container Instance Service
+
+![Screenshot 2026-01-09 212953.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212953_QRxjr9e5zIyG_PNV0QDFC.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212953.png")
+
+## Step 3: Creating Azure Container Instances
+
+<img width="1671" height="851" alt="image" src="https://github.com/user-attachments/assets/d4946369-90e4-44bf-b1a5-b83bfdb3cf6c" />
+
+## Step 4: Configuring Basic Container Details
+
+![Screenshot 2026-01-09 213159.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213159_YLQIpeLXDjf4hYWYdoc3S.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213159.png")
+
+## Step 5: Selecting Container Image
+
+![Screenshot 2026-01-09 213227.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213227_X6HZ3E345-AS4W3Ql7lz6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213227.png")
+
+## Step 6: Reviewing Container Configuration
+
+![Screenshot 2026-01-09 213309.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213309_lmBVaHR-piXCn_mad9jXs.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213309.png")
+
+
+## Step 7: Container Deployment Completion
+
+![Screenshot 2026-01-09 213505.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213505_NSOWY0PbLRwRVQ05zmDGz.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213505.png")
+
+## Step 8: Accessing the Container Resource
+
+![Screenshot 2026-01-09 213527.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213527_lbwa3lRwqjRP06Mv9HUQ6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213527.png")
+
+## Step 9: Accessing the Containerized NGINX Application Using Public IP
+
+![Screenshot 2026-01-09 213555.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213555_ZaKArWCZdcbpnqPNQopT5.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213555.png")
+
+## Step 10: NGINX Default Web Page Successfully Displayed
+
+![Screenshot 2026-01-09 213612.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213612_iA5nv7BNnmQym7pItQw1O.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213612.png")
+
+---
+
+<div align="center">
+
 ### Azure Linux Virtual Machine Setup with Dockerized Web Server
 
 </div>
 
-## Step 1: 
+---
 
-![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
+## Step 1: Search for Container Instance Service
 
-## Step 2: 
+<img width="1647" height="842" alt="Screenshot 2026-01-09 213731" src="https://github.com/user-attachments/assets/26390c8b-bfe0-4471-ae2f-7ada70dda467" />
 
-![Screenshot 2026-01-09 212953.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212953_QRxjr9e5zIyG_PNV0QDFC.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212953.png")
+## Step 2: Open Create Container Instance Page
 
-## Step 3: 
+<img width="1643" height="861" alt="Screenshot 2026-01-09 213816" src="https://github.com/user-attachments/assets/7e1e0dd9-8aea-41c0-858c-7cac03638b09" />
 
-![Screenshot 2026-01-09 213309.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213309_lmBVaHR-piXCn_mad9jXs.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213309.png")
+## Step 3:
 
-## Step 4: 
+<img width="1656" height="865" alt="Screenshot 2026-01-09 213925" src="https://github.com/user-attachments/assets/db32f3ea-273a-47de-a42d-97690eb022a4" />
 
-![Screenshot 2026-01-09 213159.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213159_YLQIpeLXDjf4hYWYdoc3S.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213159.png")
+## Step 4:
 
-## Step 5: 
+<img width="1661" height="858" alt="Screenshot 2026-01-09 214020" src="https://github.com/user-attachments/assets/2981eb0d-33fc-4231-9ca8-e98e6a100f3a" />
 
+## Step 5:
 
+<img width="1535" height="862" alt="Screenshot 2026-01-09 214431" src="https://github.com/user-attachments/assets/8d85b7fc-0a36-4fbc-b10a-189be6445860" />
 
-## Step 6: 
+## Step 6:
 
-![Screenshot 2026-01-09 213227.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213227_X6HZ3E345-AS4W3Ql7lz6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213227.png")
+<img width="1658" height="866" alt="Screenshot 2026-01-09 214514" src="https://github.com/user-attachments/assets/a0bb82c3-c020-4d8c-af92-4a597e1259d3" />
 
-## Step 7: 
+## Step 7:
 
-![Screenshot 2026-01-09 213505.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213505_NSOWY0PbLRwRVQ05zmDGz.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213505.png")
+<img width="1238" height="157" alt="Screenshot 2026-01-09 214548" src="https://github.com/user-attachments/assets/6b5bc253-8015-48ac-8c67-fa8ef21206b3" />
 
-## Step 2: 
+## Step 8:
 
-![Screenshot 2026-01-09 213555.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213555_ZaKArWCZdcbpnqPNQopT5.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213555.png")
-
-## Step 8: 
-
-![Screenshot 2026-01-09 213527.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213527_lbwa3lRwqjRP06Mv9HUQ6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213527.png")
-
-## Step 9: 
-
-![Screenshot 2026-01-09 213612.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213612_iA5nv7BNnmQym7pItQw1O.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213612.png")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1474" height="532" alt="Screenshot 2026-01-09 214614" src="https://github.com/user-attachments/assets/480543c7-9b9a-4699-b590-cb5c1bac502a" />
 
 
 
