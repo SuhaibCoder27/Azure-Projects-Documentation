@@ -340,41 +340,52 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1236" height="107" alt="Screenshot 2026-01-09 215708" src="https://github.com/user-attachments/assets/f5c60517-c46c-4d73-9e2f-4fa274b28ba8" />
 
-## Step 6: Verify Repository Download
-
 <img width="1469" height="321" alt="Screenshot 2026-01-09 215826" src="https://github.com/user-attachments/assets/f48e9f44-a8e6-4cca-9c25-5a2ae79e5ee0" />
 
-## Step 7: Navigate into the Project Directory
+## Step 6: Verify Repository Download
 
 <img width="1464" height="324" alt="Screenshot 2026-01-09 215924" src="https://github.com/user-attachments/assets/fef066ef-ef3d-46e8-81fa-72232f2fac2e" />
-
-## Step 8: Open Project in Code Editor
+## Step 7: Navigate into the Project Directory
 
 <img width="1249" height="181" alt="Screenshot 2026-01-09 220152" src="https://github.com/user-attachments/assets/69ebd349-acd7-4f7b-ac52-8410c8858bdb" />
 
-## Step 9: Inspect Application Files
+## Step 8: Open Project in Code Editor
 
 <img width="1595" height="325" alt="Screenshot 2026-01-09 220456" src="https://github.com/user-attachments/assets/d5976544-9c1d-47cc-a102-90cf19b2d305" />
 
-## Step 10: Confirm Containerized Application Readiness
+## Step 9: Inspect Application Files
 
 <img width="1865" height="321" alt="Screenshot 2026-01-09 220700" src="https://github.com/user-attachments/assets/198ad78e-60ee-41dc-90ac-1ad4800dc7e5" />
 
-## Step 11:
+## Step 10: Modify Application Source Code
 
 <img width="1919" height="322" alt="Screenshot 2026-01-09 220857" src="https://github.com/user-attachments/assets/ba7c0e7d-abdf-40b5-ae64-ef0607135b30" />
 
+## Step 11: Search for Container Registries in Azure Portal
+
 <img width="1590" height="664" alt="Screenshot 2026-01-09 221038" src="https://github.com/user-attachments/assets/26e982f6-efb1-4958-a40c-79fd955e9e0d" />
+
+## Step 12: Open Container Registries dashboard and Create a New Container Registry
 
 <img width="1654" height="815" alt="Screenshot 2026-01-09 221102" src="https://github.com/user-attachments/assets/4148d200-1f52-401b-8c2c-d03bc35bfb0b" />
 
+## Step 13: Enter Container Registry Basic Details
+
 <img width="1538" height="863" alt="Screenshot 2026-01-09 221309" src="https://github.com/user-attachments/assets/27491696-b515-4476-ac60-0095c8a5a649" />
+
+## Step 14: Review and Create Container Registry
 
 <img width="1401" height="859" alt="Screenshot 2026-01-09 221354" src="https://github.com/user-attachments/assets/3b53dd92-9afb-422e-8d3c-2984fb0d0fb1" />
 
+## Step 15: Confirm Registry Deployment
+
 <img width="1442" height="853" alt="Screenshot 2026-01-09 221451" src="https://github.com/user-attachments/assets/2c908ecb-8cd0-466a-ad4c-b0b761e76b88" />
 
+## Step 16: Open Azure Cloud Shell
+
 <img width="1662" height="244" alt="Screenshot 2026-01-09 221734" src="https://github.com/user-attachments/assets/b145014e-682a-4055-8028-36c051370f67" />
+
+## Step 17: Build and Push Custom Docker Image to Azure Container Registry
 
 <img width="1651" height="216" alt="Screenshot 2026-01-09 221813" src="https://github.com/user-attachments/assets/6caa9b18-62e6-474d-b4d9-062758173c1b" />
 
@@ -385,6 +396,8 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 <img width="801" height="318" alt="Screenshot 2026-01-09 222813" src="https://github.com/user-attachments/assets/e3c92f78-089a-42a1-a517-0254ea39915a" />
 
 <img width="848" height="314" alt="Screenshot 2026-01-09 222918" src="https://github.com/user-attachments/assets/e79b2ee0-3e6f-4559-a314-43d63e543b20" />
+
+## Step 18: 
 
 <img width="1651" height="865" alt="Screenshot 2026-01-09 223037" src="https://github.com/user-attachments/assets/95c8d274-58be-4095-b5cb-0502a089d199" />
 
