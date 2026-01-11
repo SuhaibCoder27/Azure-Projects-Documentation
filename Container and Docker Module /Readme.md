@@ -59,19 +59,19 @@ The application is containerized, stored in registries, and deployed inside an A
 
 ![Screenshot 2026-01-09 192806.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20192806_AeQSRKPQLLDGZkXlZBIoJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 192806.png")
 
-### Step 5: Resource Group Creation
+### Step 5: Open Virtual machine Creation 
 
 ![Screenshot 2026-01-09 192951.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20192951_jfjBF_lyQc-XpJogPCJbF.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 192951.png")
 
-### Step 6: Basic Virtual Machine Configuration
+### Step 6: Resource Group Creation 
 
 ![Screenshot 2026-01-09 193027.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20193027_UqYyj_NQVBsKn8-ZFVn6Y.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 193027.png")
 
-### Step 7: Virtual Machine Size and Administrator Setup
+### Step 7: Basic Virtual Machine Configuration 
 
 ![Screenshot 2026-01-09 193319.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20193319_wKwii2pgdQQ_zP5X62TAq.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 193319.png")
 
-### Step 8: 
+### Step 8: Administrator account Setup 
 ![Screenshot 2026-01-09 193827.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20193827_yl2lmaObKlkijQLLmtojW.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 193827.png")
 
 ### Step 9: Network and Inbound Port Configuration
@@ -81,6 +81,52 @@ The application is containerized, stored in registries, and deployed inside an A
 ### Step 10: Disk Configuration
 
 ![Screenshot 2026-01-09 193957.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20193957_C7F2dxBejAJTbWQFTlSul.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 193957.png")
+
+### step 11: Networking Configuration 
+
+![Screenshot 2026-01-09 194359.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194359_JDgqlXPsLE5wn2vA1P4wp.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194359.png")
+
+### Step 12: Review and Create – Validation Passed
+
+![Screenshot 2026-01-09 194442.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194442_42QIsJooqWQ1WzujNq4Nb.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194442.png")
+
+### Step 13: Virtual Machine Deployment Completion
+
+![Screenshot 2026-01-09 194609.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194609_yox8BvZm0D0E9DnuHbfS0.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194609.png")
+
+### Step 14: Accessing the Virtual Machine Resource
+
+![Screenshot 2026-01-09 194631.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194631_zNya3FEvzmGtZmnYlPWmV.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194631.png")
+
+### Step 15: Searching for Network Security Groups (NSG)
+
+![Screenshot 2026-01-09 194734.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194734_fSkah5wZ8S8iEGtzwXtUn.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194734.png")
+
+### Step 16: Network Security Group Listing
+
+![Screenshot 2026-01-09 194744.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194744_sSOlSi4Sfg1H0Qr0wqRRl.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194744.png")
+
+### Step 17: Viewing Network Security Group Details
+
+![Screenshot 2026-01-09 195030.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195030_FQW4H81nA1mp3GzHptXX9.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195030.png")
+
+### Step 18: Disassociating Network Interface from NSG
+
+![Screenshot 2026-01-09 194810.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194810_M4X0wocI7ebPWb3SszcRZ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194810.png")
+
+### Step 13: Successful Network Interface Disassociation
+
+![Screenshot 2026-01-09 195229.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195229_2dxEpB0Pqz4NLYITKgRXx.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195229.png")
+
+### Step 13:
+
+![Screenshot 2026-01-09 195248.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195248_HIZzexQjFUc-5c4AYtbRZ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195248.png")
+
+
+
+
+
+
 
 
 
