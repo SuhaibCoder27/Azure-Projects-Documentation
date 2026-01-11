@@ -279,15 +279,19 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1647" height="842" alt="Screenshot 2026-01-09 213731" src="https://github.com/user-attachments/assets/26390c8b-bfe0-4471-ae2f-7ada70dda467" />
 
-## Step 2: Open Create Container Instance Page
+## Step 2: Creating Azure Container Instances
+
+<img width="1671" height="851" alt="image" src="https://github.com/user-attachments/assets/d4946369-90e4-44bf-b1a5-b83bfdb3cf6c" />
+
+## Step 3: Open Container Instance Page
 
 <img width="1643" height="861" alt="Screenshot 2026-01-09 213816" src="https://github.com/user-attachments/assets/7e1e0dd9-8aea-41c0-858c-7cac03638b09" />
 
-## Step 3:
+## Step 4: Enter Container Basic Details
 
 <img width="1656" height="865" alt="Screenshot 2026-01-09 213925" src="https://github.com/user-attachments/assets/db32f3ea-273a-47de-a42d-97690eb022a4" />
 
-## Step 4:
+## Step 4: Choose Image Source and Image
 
 <img width="1661" height="858" alt="Screenshot 2026-01-09 214020" src="https://github.com/user-attachments/assets/2981eb0d-33fc-4231-9ca8-e98e6a100f3a" />
 
