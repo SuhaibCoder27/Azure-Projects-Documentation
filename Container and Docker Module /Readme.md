@@ -332,17 +332,31 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1889" height="851" alt="Screenshot 2026-01-09 215409" src="https://github.com/user-attachments/assets/566178a7-3cda-41d9-87ed-01986a5b1eef" />
 
+## Step 4: Open microsoft azure and launch cloud shell
+
 <img width="1662" height="868" alt="Screenshot 2026-01-09 215513" src="https://github.com/user-attachments/assets/e042f594-6980-4f72-af42-8e3bcf8ae161" />
+
+## Step 5: Clone the GitHub Repository
 
 <img width="1236" height="107" alt="Screenshot 2026-01-09 215708" src="https://github.com/user-attachments/assets/f5c60517-c46c-4d73-9e2f-4fa274b28ba8" />
 
+## Step 6: Verify Repository Download
+
 <img width="1469" height="321" alt="Screenshot 2026-01-09 215826" src="https://github.com/user-attachments/assets/f48e9f44-a8e6-4cca-9c25-5a2ae79e5ee0" />
+
+## Step 7: Navigate into the Project Directory
 
 <img width="1464" height="324" alt="Screenshot 2026-01-09 215924" src="https://github.com/user-attachments/assets/fef066ef-ef3d-46e8-81fa-72232f2fac2e" />
 
+## Step 8: Open Project in Code Editor
+
 <img width="1249" height="181" alt="Screenshot 2026-01-09 220152" src="https://github.com/user-attachments/assets/69ebd349-acd7-4f7b-ac52-8410c8858bdb" />
 
+## Step 9: Inspect Application Files
+
 <img width="1595" height="325" alt="Screenshot 2026-01-09 220456" src="https://github.com/user-attachments/assets/d5976544-9c1d-47cc-a102-90cf19b2d305" />
+
+## Step 10: Confirm Containerized Application Readiness
 
 <img width="1865" height="321" alt="Screenshot 2026-01-09 220700" src="https://github.com/user-attachments/assets/198ad78e-60ee-41dc-90ac-1ad4800dc7e5" />
 
