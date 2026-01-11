@@ -397,19 +397,27 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="848" height="314" alt="Screenshot 2026-01-09 222918" src="https://github.com/user-attachments/assets/e79b2ee0-3e6f-4559-a314-43d63e543b20" />
 
-## Step 18: 
+## Step 18: Verify Azure Container Registry Creation
 
 <img width="1651" height="865" alt="Screenshot 2026-01-09 223037" src="https://github.com/user-attachments/assets/95c8d274-58be-4095-b5cb-0502a089d199" />
 
-<img width="1660" height="853" alt="Screenshot 2026-01-09 223102" src="https://github.com/user-attachments/assets/1f812dff-a13a-4a65-95cb-a17252ac0e8d" />
+## Step 19: View Container Registry Repositories
 
 <img width="1658" height="852" alt="Screenshot 2026-01-09 223219" src="https://github.com/user-attachments/assets/daea4293-10fc-4c4f-8dee-e8b545ce89dc" />
 
+## Step 20: Search for Azure Container Instances
+
 <img width="1652" height="866" alt="Screenshot 2026-01-09 223612" src="https://github.com/user-attachments/assets/1abc9ae0-6548-40d5-b21f-1c7b463762c7" />
+
+## Step 21: Open Container Instances Dashboard
 
 <img width="1664" height="862" alt="Screenshot 2026-01-09 223645" src="https://github.com/user-attachments/assets/0c4f23e5-90d4-45f7-ada7-f577e725e20f" />
 
+## Step 22: Start Creating and Enter Basic Container Details
+
 <img width="1460" height="863" alt="Screenshot 2026-01-09 223734" src="https://github.com/user-attachments/assets/28d2a603-e67e-4fd2-90a4-280e0efb2a7d" />
+
+## Step 23: Select Image Source from Azure Container Registry
 
 <img width="1459" height="858" alt="Screenshot 2026-01-09 223902" src="https://github.com/user-attachments/assets/9e7fe542-1ebb-4d06-ab23-dd6c0fd167af" />
 
