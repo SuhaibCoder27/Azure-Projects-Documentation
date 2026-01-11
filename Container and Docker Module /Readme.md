@@ -220,37 +220,45 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 </div>
 
-<img width="1647" height="842" alt="Screenshot 2026-01-09 213731" src="https://github.com/user-attachments/assets/8a6b93cc-c60c-4c80-9997-a3ba6b73172d" />
-
-
-
----
-
-![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
+## Step 1: 
 
 ![Screenshot 2026-01-09 212953.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212953_QRxjr9e5zIyG_PNV0QDFC.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212953.png")
 
 
 
-![Screenshot 2026-01-09 213159.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213159_YLQIpeLXDjf4hYWYdoc3S.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213159.png")
+## Step 2: 
 
-![Screenshot 2026-01-09 213015.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213015_ypWjal4CdqgxPs4gz1nR0.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213015.png")
+![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
 
-
+## Step 3: 
 
 ![Screenshot 2026-01-09 213309.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213309_lmBVaHR-piXCn_mad9jXs.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213309.png")
 
+## Step 4: 
+
+![Screenshot 2026-01-09 213159.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213159_YLQIpeLXDjf4hYWYdoc3S.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213159.png")
+
+## Step 5: 
+
+
+
+## Step 6: 
+
 ![Screenshot 2026-01-09 213227.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213227_X6HZ3E345-AS4W3Ql7lz6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213227.png")
 
-
+## Step 7: 
 
 ![Screenshot 2026-01-09 213505.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213505_NSOWY0PbLRwRVQ05zmDGz.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213505.png")
 
+## Step 2: 
+
 ![Screenshot 2026-01-09 213555.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213555_ZaKArWCZdcbpnqPNQopT5.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213555.png")
 
-
+## Step 8: 
 
 ![Screenshot 2026-01-09 213527.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213527_lbwa3lRwqjRP06Mv9HUQ6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213527.png")
+
+## Step 9: 
 
 ![Screenshot 2026-01-09 213612.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213612_iA5nv7BNnmQym7pItQw1O.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213612.png")
 
