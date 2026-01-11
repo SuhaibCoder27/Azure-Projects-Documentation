@@ -222,13 +222,11 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 ## Step 1: 
 
-![Screenshot 2026-01-09 212953.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212953_QRxjr9e5zIyG_PNV0QDFC.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212953.png")
-
-
+![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
 
 ## Step 2: 
 
-![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
+![Screenshot 2026-01-09 212953.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212953_QRxjr9e5zIyG_PNV0QDFC.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212953.png")
 
 ## Step 3: 
 
