@@ -43,6 +43,12 @@ The application is containerized, stored in registries, and deployed inside an A
 
 ## Implementation Visuals 
 
+<div align="center">
+
+### Azure Linux Virtual Machine Setup with Dockerized Web Server
+
+</div>
+
 ### Step 1: Azure Portal Home Page
 
 ![Screenshot 2026-01-09 192247.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20192247_w2YCda1ewjQs_mx0eawH7.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 192247.png")
@@ -146,13 +152,9 @@ The application is containerized, stored in registries, and deployed inside an A
 
 ![Screenshot 2026-01-09 200126.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200126_PnLfaJxFPtSn6BbW7dGDm.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200126.png")
 
-### Step 28: SSH Login Prompt
+### Step 28: Successful Login to Ubuntu Virtual Machine
 
 ![Screenshot 2026-01-09 200137.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200137_G5-6DCrN-MW1-RSiAj86H.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200137.png")
-
-### Step 29: Successful Login to Ubuntu Virtual Machine
-
-![Screenshot 2026-01-09 200137.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200137_W4e364VOUTcjr1HTD6yCl.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200137.png")
 
 ![Screenshot 2026-01-09 200242.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200242_VIdNZz7jVCQCoemJ_byM2.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200242.png")
 
@@ -175,6 +177,86 @@ The application is containerized, stored in registries, and deployed inside an A
 ![Screenshot 2026-01-09 201923.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201923_RWxmi3CwZLgU9_KXvK83C.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201923.png")
 
 ![Screenshot 2026-01-09 201942.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201942_6ai-XLpl44zrjMXjq_Poa.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201942.png")
+
+## Linux Prompt 
+
+// Update the package index
+-- sudo apt-get update
+
+// Install packages to allow apt to use the repository over HTTPS
+sudo apt install apt-transport-https ca-certificates curl software-properties-common
+
+// Add Docker's official GPG key
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+// Setup a stable repository
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+
+// Update the package index
+sudo apt-get update
+
+// Install docker, containerd
+sudo apt-get install docker-ce
+
+// Pull the nginx image
+sudo docker pull nginx:1.17.0
+
+// Create a container out of the image
+sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
+
+### Step 29: Entering the Virtual Machine Public IP Address in Browser
+
+<img width="1581" height="244" alt="Screenshot 2026-01-09 202117" src="https://github.com/user-attachments/assets/682e695a-6666-44d6-927e-967f8bb22187" />
+
+### Step 30: NGINX Default Web Page Successfully Displayed
+
+<img width="1622" height="783" alt="Screenshot 2026-01-09 202134" src="https://github.com/user-attachments/assets/f24e7c6b-0205-43fe-8e66-68444ac77d99" />
+
+---
+
+<div align="center">
+
+### Azure Linux Virtual Machine Setup with Dockerized Web Server
+
+</div>
+
+<img width="1647" height="842" alt="Screenshot 2026-01-09 213731" src="https://github.com/user-attachments/assets/8a6b93cc-c60c-4c80-9997-a3ba6b73172d" />
+
+
+
+---
+
+![Screenshot 2026-01-09 212852.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212852_TNeMATRdxAFBhPepQ4tWJ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212852.png")
+
+![Screenshot 2026-01-09 212953.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20212953_QRxjr9e5zIyG_PNV0QDFC.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 212953.png")
+
+
+
+![Screenshot 2026-01-09 213159.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213159_YLQIpeLXDjf4hYWYdoc3S.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213159.png")
+
+![Screenshot 2026-01-09 213015.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213015_ypWjal4CdqgxPs4gz1nR0.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213015.png")
+
+
+
+![Screenshot 2026-01-09 213309.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213309_lmBVaHR-piXCn_mad9jXs.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213309.png")
+
+![Screenshot 2026-01-09 213227.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213227_X6HZ3E345-AS4W3Ql7lz6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213227.png")
+
+
+
+![Screenshot 2026-01-09 213505.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213505_NSOWY0PbLRwRVQ05zmDGz.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213505.png")
+
+![Screenshot 2026-01-09 213555.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213555_ZaKArWCZdcbpnqPNQopT5.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213555.png")
+
+
+
+![Screenshot 2026-01-09 213527.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213527_lbwa3lRwqjRP06Mv9HUQ6.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213527.png")
+
+![Screenshot 2026-01-09 213612.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20213612_iA5nv7BNnmQym7pItQw1O.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 213612.png")
+
+
+
+
 
 
 
