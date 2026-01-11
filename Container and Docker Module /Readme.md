@@ -360,6 +360,8 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1865" height="321" alt="Screenshot 2026-01-09 220700" src="https://github.com/user-attachments/assets/198ad78e-60ee-41dc-90ac-1ad4800dc7e5" />
 
+## Step 11:
+
 <img width="1919" height="322" alt="Screenshot 2026-01-09 220857" src="https://github.com/user-attachments/assets/ba7c0e7d-abdf-40b5-ae64-ef0607135b30" />
 
 <img width="1590" height="664" alt="Screenshot 2026-01-09 221038" src="https://github.com/user-attachments/assets/26e982f6-efb1-4958-a40c-79fd955e9e0d" />
