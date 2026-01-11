@@ -136,27 +136,51 @@ The application is containerized, stored in registries, and deployed inside an A
 
 ### Step 25: Launching PuTTY from Local Machine
 
-![Screenshot 2026-01-09 200113.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200113_Aofn_3i7fiD8SGCHG1j2Q.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200113.png")
-
-### Step 26: 
-
 ![Screenshot 2026-01-09 200024.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200024_Y8X8AKIXRBY_IfXXGINgT.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200024.png")
 
-### Step 27: 
+### Step 26: Configuring PuTTY for SSH Connection
 
-![Screenshot 2026-01-09 200137.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200137_G5-6DCrN-MW1-RSiAj86H.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200137.png")
+![Screenshot 2026-01-09 200113.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200113_Aofn_3i7fiD8SGCHG1j2Q.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200113.png")
 
-### Step 28: 
+### Step 27: PuTTY Security Alert – Host Key Verification
 
 ![Screenshot 2026-01-09 200126.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200126_PnLfaJxFPtSn6BbW7dGDm.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200126.png")
 
-### Step 29: 
+### Step 28: SSH Login Prompt
 
-![Screenshot 2026-01-09 200242.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200242_DhWK7vNtmslp5cKxfPsxh.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200242.png")
+![Screenshot 2026-01-09 200137.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200137_G5-6DCrN-MW1-RSiAj86H.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200137.png")
 
-### Step 30: 
+### Step 29: Successful Login to Ubuntu Virtual Machine
 
-![Screenshot 2026-01-09 200708.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200708_IXIssPM0vG_nXKXVtg_Tb.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200708.png")
+![Screenshot 2026-01-09 200137.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200137_W4e364VOUTcjr1HTD6yCl.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200137.png")
+
+![Screenshot 2026-01-09 200242.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200242_VIdNZz7jVCQCoemJ_byM2.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200242.png")
+
+![Screenshot 2026-01-09 200708.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200708_ck4Aa0oBXB1MKDn7yYZGw.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200708.png")
+
+![Screenshot 2026-01-09 200748.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200748_QhAeYCPtJFdL1w6y0BJln.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200748.png")
+
+![Screenshot 2026-01-09 201441.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201441_2AGUrmWujpy6qhHwynpGz.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201441.png")
+
+![Screenshot 2026-01-09 201644.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201644_72dGeGG8fHyX5nr3Zbi1u.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201644.png")
+
+![Screenshot 2026-01-09 201714.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201714_sez7uCpQFtFYcMBXhfpAB.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201714.png")
+
+![Screenshot 2026-01-09 201740.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201740_t7P7oyC91NCGYNHi_Id32.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201740.png")
+
+![Screenshot 2026-01-09 201802.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201802_RA4ige28Ozlqq2c4OuhpK.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201802.png")
+
+![Screenshot 2026-01-09 201846.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201846_cma782W3ksDOl5HDjfmmp.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201846.png")
+
+![Screenshot 2026-01-09 201923.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201923_RWxmi3CwZLgU9_KXvK83C.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201923.png")
+
+![Screenshot 2026-01-09 201942.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20201942_6ai-XLpl44zrjMXjq_Poa.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 201942.png")
+
+
+
+
+
+
 
 
 
