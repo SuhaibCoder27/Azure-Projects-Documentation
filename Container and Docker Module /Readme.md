@@ -106,21 +106,63 @@ The application is containerized, stored in registries, and deployed inside an A
 
 ![Screenshot 2026-01-09 194744.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194744_sSOlSi4Sfg1H0Qr0wqRRl.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194744.png")
 
-### Step 17: Viewing Network Security Group Details
+### Step 17: Viewing Network Interfaces Details
 
 ![Screenshot 2026-01-09 195030.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195030_FQW4H81nA1mp3GzHptXX9.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195030.png")
 
 ### Step 18: Disassociating Network Interface from NSG
 
-![Screenshot 2026-01-09 194810.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20194810_M4X0wocI7ebPWb3SszcRZ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 194810.png")
-
-### Step 13: Successful Network Interface Disassociation
-
 ![Screenshot 2026-01-09 195229.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195229_2dxEpB0Pqz4NLYITKgRXx.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195229.png")
 
-### Step 13:
+### Step 19: Successful Network Interface Disassociation
 
 ![Screenshot 2026-01-09 195248.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195248_HIZzexQjFUc-5c4AYtbRZ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195248.png")
+
+### Step 20: 
+
+![Screenshot 2026-01-09 195300.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195300_xskLZgw8lt8ROdeiKneYu.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195300.png")
+
+### Step 22: 
+
+![Screenshot 2026-01-09 195331.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195331_SUfLoe7klotsObOmf-DqM.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195331.png")
+
+### Step 23: 
+
+![Screenshot 2026-01-09 195412.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195412_UkxqmJMx5mMIV2zP09NIV.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195412.png")
+
+### Step 24: 
+
+![Screenshot 2026-01-09 195936.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195936_h50n7GqkhsvXVDTrg_X6o.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195936.png")
+
+### Step 25: 
+
+![Screenshot 2026-01-09 200113.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200113_Aofn_3i7fiD8SGCHG1j2Q.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200113.png")
+
+### Step 26: 
+
+![Screenshot 2026-01-09 200024.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200024_Y8X8AKIXRBY_IfXXGINgT.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200024.png")
+
+### Step 27: 
+
+![Screenshot 2026-01-09 200137.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200137_G5-6DCrN-MW1-RSiAj86H.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200137.png")
+
+### Step 28: 
+
+![Screenshot 2026-01-09 200126.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200126_PnLfaJxFPtSn6BbW7dGDm.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200126.png")
+
+### Step 29: 
+
+![Screenshot 2026-01-09 200242.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200242_DhWK7vNtmslp5cKxfPsxh.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200242.png")
+
+### Step 30: 
+
+![Screenshot 2026-01-09 200708.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200708_IXIssPM0vG_nXKXVtg_Tb.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200708.png")
+
+
+
+
+
+
 
 
 
