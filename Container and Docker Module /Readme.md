@@ -118,23 +118,23 @@ The application is containerized, stored in registries, and deployed inside an A
 
 ![Screenshot 2026-01-09 195248.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195248_HIZzexQjFUc-5c4AYtbRZ.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195248.png")
 
-### Step 20: 
+### Step 20: Network Security Group – Subnets View (No Association)
 
 ![Screenshot 2026-01-09 195300.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195300_xskLZgw8lt8ROdeiKneYu.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195300.png")
 
-### Step 22: 
+### Step 22: Associating the NSG with a Virtual Network Subnet
 
 ![Screenshot 2026-01-09 195331.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195331_SUfLoe7klotsObOmf-DqM.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195331.png")
 
-### Step 23: 
+### Step 23: Subnet Successfully Associated with NSG
 
 ![Screenshot 2026-01-09 195412.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195412_UkxqmJMx5mMIV2zP09NIV.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195412.png")
 
-### Step 24: 
+### Step 24: Viewing Virtual Machines in Azure Portal To check nsg is binded
 
 ![Screenshot 2026-01-09 195936.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20195936_h50n7GqkhsvXVDTrg_X6o.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 195936.png")
 
-### Step 25: 
+### Step 25: Launching PuTTY from Local Machine
 
 ![Screenshot 2026-01-09 200113.png](https://eraser.imgix.net/workspaces/XY7MeNC8cFGVxzWvYyWu/h28iw3vmmaTZF0WlsYaXTHBzHD63/Screenshot%202026-01-09%20200113_Aofn_3i7fiD8SGCHG1j2Q.png?ixlib=js-3.8.0 "Screenshot 2026-01-09 200113.png")
 
