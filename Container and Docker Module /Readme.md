@@ -475,6 +475,16 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1660" height="944" alt="Screenshot 2026-01-09 224805" src="https://github.com/user-attachments/assets/55c7d41b-475f-446f-8d90-2c269235a1ec" />
 
+---
+
+<div align="center">
+
+## Resource Cleanup and Deletion in Microsoft Azure
+
+</div>
+
+---
+
 ## Step 1: Azure Portal Home Page Showing Container Resources
 
 <img width="1648" height="860" alt="Screenshot 2026-01-09 224857" src="https://github.com/user-attachments/assets/43df290a-ffd0-4769-a439-52565bf3f743" />
@@ -491,31 +501,31 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1913" height="818" alt="Screenshot 2026-01-09 225112" src="https://github.com/user-attachments/assets/4b176ae3-3fa3-4d27-9b28-aa4be9d75958" />
 
-## Step 5: Resources Created Inside the Container Resource Group
+## Step 5: Delete the Resources Created Inside the Container Resource Group
 
 <img width="1915" height="813" alt="Screenshot 2026-01-09 225152" src="https://github.com/user-attachments/assets/101d69cc-e37a-4ab0-97cb-a93a0f344d53" />
 
-## Step 6: Initiating Resource Group Deletion
+## Step 6: Viewing Resource Groups in Azure Resource Manager
 
 <img width="1662" height="647" alt="Screenshot 2026-01-09 225250" src="https://github.com/user-attachments/assets/f8d131b5-7883-40fa-819a-004d692be271" />
 
-## Step 7: Confirming Deletion of Container Resource Group
+## Step 7: Opening the Default Resource Group
 
 <img width="1916" height="815" alt="Screenshot 2026-01-09 225317" src="https://github.com/user-attachments/assets/8a296092-6d79-4b2b-a3fd-c296880e004d" />
 
-## Step 8: Resource Group Successfully Removed
+## Step 8: Delete the Resources Created Inside the Resource Group
 
 <img width="1917" height="811" alt="Screenshot 2026-01-09 225341" src="https://github.com/user-attachments/assets/e57e7460-f3f1-4d78-aa78-debdea83cc74" />
 
-## Step 9: Selecting Default Resource Group for Cleanup
+## Step 9: Selecting NetworkWatcherRG
 
 <img width="1918" height="819" alt="Screenshot 2026-01-09 225422" src="https://github.com/user-attachments/assets/6914e2ce-1843-43f8-9067-93237463f750" />
 
-## Step 9: Confirming Deletion
+## Step 10: Delete the Resources Created Inside the Resource Group
 
 <img width="1919" height="815" alt="Screenshot 2026-01-09 225455" src="https://github.com/user-attachments/assets/29908f74-eb9d-443a-a2b5-76f3f22ee0df" />
 
-## Step 10: Confirming Deletion of Default Resource Group
+## Step 11: Confirming Deletion of Resource Group
 
 <img width="1892" height="819" alt="Screenshot 2026-01-09 225657" src="https://github.com/user-attachments/assets/ec5b0148-f22f-4c93-956f-159288bea464" />
 
