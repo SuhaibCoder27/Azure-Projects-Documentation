@@ -10,10 +10,7 @@
 - [Architecture Diagram](#architecture-diagram)
 - [Objective](#objective)
 - [Implementation Visuals](#Implementation-Visuals)
-- [Clean-up](#clean-up)
-  - [Step-1: Delete MFA for IAM-User-1](#step-1--delete-mfa-for-iam-user-1)
-  - [Step-2: Login without MFA — Only list buckets, no access to bucket 1992](#step-2--after-deleting-mfa-for-iam-user-1-if-he-login-he-can-only-list-the-bucket-but-not-access-specific-bucket-1992-with-object)
-- [Conclusion](#conclusion)
+- [Resource Cleanup and Deletion in Microsoft Azure](#Resource-Cleanup-and-Deletion-in-Microsoft-Azure)
 
 ## Scenario
 
