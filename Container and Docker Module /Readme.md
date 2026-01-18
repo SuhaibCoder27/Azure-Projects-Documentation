@@ -435,87 +435,87 @@ sudo docker run --name sampleapp -p 80:80 -d nginx:1.17.0
 
 <img width="1663" height="844" alt="Screenshot 2026-01-09 224142" src="https://github.com/user-attachments/assets/b8fb1746-c8bb-439b-a8ca-15ede4293482" />
 
-## Step 27: Select Image Source from Azure Container Registry
+## Step 27: Enable Admin User and Copy Azure Container Registry Credentials
 
 <img width="1676" height="868" alt="Screenshot 2026-01-09 224200" src="https://github.com/user-attachments/assets/77bb868c-bef6-4c0e-84bf-ac0781796121" />
 
-## Step 28: Enable Admin User and Copy Azure Container Registry Credentials
+## Step 28: Search for Azure Container Instances
 
 <img width="1643" height="795" alt="Screenshot 2026-01-09 224228" src="https://github.com/user-attachments/assets/cea9fd5b-45a3-4b2c-b7ae-264555eda3f2" />
 
-## Step 29: Search for Azure Container Instances
+## Step 29: View Container Instances Dashboard
 
 <img width="1661" height="829" alt="Screenshot 2026-01-09 224248" src="https://github.com/user-attachments/assets/27bdab5f-9e00-47ed-a4d1-f63793aca3ce" />
 
-## Step 30: View Container Instances Dashboard
+## Step 30:  Start Configure Container Instance Basics
 
 <img width="1247" height="856" alt="Screenshot 2026-01-09 224328" src="https://github.com/user-attachments/assets/a0107ed8-3ad2-4a0f-b7b3-25c2c4ee0a0a" />
 
-## Step 31: Start Configure Container Instance Basics
+## Step 31: Select Image Source and Select Container Image from Registry
 
 <img width="1245" height="866" alt="Screenshot 2026-01-09 224434" src="https://github.com/user-attachments/assets/2f8f89a2-d6a5-47f2-845f-773ac35db981" />
 
-## Step 32: Select Image Source and Select Container Image from Registry
+## Step 32: Review and Validate Container Configuration
 
 <img width="1388" height="865" alt="Screenshot 2026-01-09 224507" src="https://github.com/user-attachments/assets/0d6f230d-c31f-4a0b-b8fb-3ec434a883c3" />
 
-## Step 33: Review and Validate Container Configuration
+## Step 33: Deployment Completed Successfully
 
 <img width="1663" height="693" alt="Screenshot 2026-01-09 224644" src="https://github.com/user-attachments/assets/cc8313b9-a9ab-4643-8c93-03256d551394" />
 
-## Step 34: Deployment Completed Successfully
+## Step 34: View Running Container Instance
 
 <img width="1638" height="831" alt="Screenshot 2026-01-09 224715" src="https://github.com/user-attachments/assets/60e1a3ef-8833-4f55-b213-7c730657612a" />
 
-## Step 35: View Running Container Instance
+## Step 35: Accessing the Application Using Container Public IP in Web Browser
 
 <img width="1133" height="163" alt="Screenshot 2026-01-09 224740" src="https://github.com/user-attachments/assets/a50726e4-49d4-4bf9-a7ca-df26743cfcfc" />
 
-## Step 36: Accessing the Application Using Container Public IP in Web Browser
+## Step 36: Web Application Output from Docker Container
 
 <img width="1660" height="944" alt="Screenshot 2026-01-09 224805" src="https://github.com/user-attachments/assets/55c7d41b-475f-446f-8d90-2c269235a1ec" />
 
-## Step 37: Web Application Output from Docker Container
+## Step 1: Azure Portal Home Page Showing Container Resources
 
 <img width="1648" height="860" alt="Screenshot 2026-01-09 224857" src="https://github.com/user-attachments/assets/43df290a-ffd0-4769-a439-52565bf3f743" />
 
-## Step 1: Azure Portal Home Page Showing Container Resources
+## Step 2: Searching for Resource Groups in Azure Portal
 
 <img width="1662" height="799" alt="Screenshot 2026-01-09 224933" src="https://github.com/user-attachments/assets/2cd50fa4-54a4-43be-b03d-7292dd678028" />
 
-## Step 2: Searching for Resource Groups in Azure Portal
+## Step 3: Viewing Resource Groups in Azure Resource Manager
 
 <img width="1660" height="791" alt="Screenshot 2026-01-09 225002" src="https://github.com/user-attachments/assets/9f67b530-f9ff-4cb1-ba7a-401052c86bfb" />
 
-## Step 3: Viewing Resource Groups in Azure Resource Manager
+## Step 4: Opening the Container Resource Group
 
 <img width="1913" height="818" alt="Screenshot 2026-01-09 225112" src="https://github.com/user-attachments/assets/4b176ae3-3fa3-4d27-9b28-aa4be9d75958" />
 
-## Step 4: Opening the Container Resource Group
+## Step 5: Resources Created Inside the Container Resource Group
 
 <img width="1915" height="813" alt="Screenshot 2026-01-09 225152" src="https://github.com/user-attachments/assets/101d69cc-e37a-4ab0-97cb-a93a0f344d53" />
 
-## Step 5: Resources Created Inside the Container Resource Group
+## Step 6: Initiating Resource Group Deletion
 
 <img width="1662" height="647" alt="Screenshot 2026-01-09 225250" src="https://github.com/user-attachments/assets/f8d131b5-7883-40fa-819a-004d692be271" />
 
-## Step 6: Initiating Resource Group Deletion
+## Step 7: Confirming Deletion of Container Resource Group
 
 <img width="1916" height="815" alt="Screenshot 2026-01-09 225317" src="https://github.com/user-attachments/assets/8a296092-6d79-4b2b-a3fd-c296880e004d" />
 
-## Step 7: Confirming Deletion of Container Resource Group
+## Step 8: Resource Group Successfully Removed
 
 <img width="1917" height="811" alt="Screenshot 2026-01-09 225341" src="https://github.com/user-attachments/assets/e57e7460-f3f1-4d78-aa78-debdea83cc74" />
 
-## Step 8: Resource Group Successfully Removed
+## Step 9: Selecting Default Resource Group for Cleanup
 
 <img width="1918" height="819" alt="Screenshot 2026-01-09 225422" src="https://github.com/user-attachments/assets/6914e2ce-1843-43f8-9067-93237463f750" />
 
-## Step 9: Selecting Default Resource Group for Cleanup
+## Step 9: Confirming Deletion
 
 <img width="1919" height="815" alt="Screenshot 2026-01-09 225455" src="https://github.com/user-attachments/assets/29908f74-eb9d-443a-a2b5-76f3f22ee0df" />
 
-## Step 10: 
+## Step 10: Confirming Deletion of Default Resource Group
 
 <img width="1892" height="819" alt="Screenshot 2026-01-09 225657" src="https://github.com/user-attachments/assets/ec5b0148-f22f-4c93-956f-159288bea464" />
 
